@@ -6,6 +6,7 @@
   "PREFIX": "!",
   "PRUNING": false,
   "LOCALE": "en",
+  "locale": "en",
   "STAY_TIME": 30,
   "DEFAULT_VOLUME": 100
 }
